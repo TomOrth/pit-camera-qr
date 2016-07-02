@@ -2,5 +2,5 @@
     <string name="app_name">Storm Pit Camera</string>
     <string name="title_activity_qr">QrActivity</string>
     <string name="exit">Exit to main screen</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="activity_main">MainActivity</string>
 </resources>
